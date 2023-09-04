@@ -158,3 +158,6 @@ git stash clear
 git update-index --assume-unchanged file.txt
 
 
+# lists files in long format
+ls -l
+
